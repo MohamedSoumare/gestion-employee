@@ -20,9 +20,10 @@ export default {
   data() {
     return {
       employes: [
-        { id: 1, nom: 'Jean Dupont' },
-        { id: 2, nom: 'Marie Durand' },
-        { id: 3, nom: 'Pierre Martin' },
+        { id: 1, nom: 'Salif Dia' },
+        { id: 2, nom: 'Mohamed Diop' },
+        { id: 3, nom: 'Pierre John' },
+        { id: 4, nom: 'Ismail ou Mohameden' },
       ],
       hover: null,
     };
